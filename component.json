@@ -1,0 +1,10 @@
+{
+  "name": "marked",
+  "repo": "chjj/marked",
+  "description": "A markdown parser and compiler. Built for speed.",
+  "version": "0.2.5",
+  "keywords": [ "markdown", "markup", "html" ],
+  "scripts": [ "./lib/marked.js" ],
+  "dependencies": {},
+  "development": {}
+}
